@@ -2,7 +2,7 @@
 
 The dataset consists of 1000 links for images evenly divided by 4 classes ([hotels](./hotel.txt), [restaurants](./restaurant.txt), [shops](shop.txt), and [others](./other.txt)). A linked image is a singboard photographic picture with possible additional objects in the background.
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jeepersmedia/14655838979/" title="KFC"><img src="https://live.staticflickr.com/3862/14655838979_7d030cd8c7_s.jpg" width="75" height="75" alt="KFC"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jeepersmedia/14655838979/" title="KFC"><img src="https://live.staticflickr.com/3862/14655838979_7d030cd8c7_s.jpg" width="75" height="75" alt="KFC"></a>
 A sample image from the dataset (of class "restaurant").
 
 ## License
