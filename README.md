@@ -12,7 +12,7 @@ The dataset is collected from Flickr website and contains only the links for the
 If you're using the data in a research please consider citing the following paper:
 
     @inproceedings{samarin2020signboard,
-    	title={Self-Attentive Model for Headline Generation},
+    	title={Specialized image descriptors for signboard photographs classification},
     	author={Samarin, Aleksei and  Malykh, Valentin and Muravyov, Sergey},
     	booktitle={Proceedings of the 14th International Baltic Conference on Databases and Information Systems (DBIS 2020)},
     	year={2020}
